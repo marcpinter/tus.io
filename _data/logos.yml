@@ -28,3 +28,6 @@
 - url: 'http://hotpointapp.com'
   src: /assets/img/logos/hotpoint.png
   name: Hotpoint
+- url: 'https://www.pawsr.com'
+  src: 'https://paw.sr/images/pawsr-logo_200x2.png'
+  name: pawsr
